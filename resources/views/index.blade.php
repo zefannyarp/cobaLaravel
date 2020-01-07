@@ -1,6 +1,6 @@
 @extends('layout/main')
 
-@section('title', 'KOCAK')
+@section('title', 'Login')
 
 @section('container')
     <div class="container">
